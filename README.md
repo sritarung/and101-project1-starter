@@ -35,7 +35,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 <img src="https://i.gyazo.com/b7a35e3274219bf446aea5a33cd93587.gif" title='Video Demo' width='' alt='Video Demo' />
-(https://www.loom.com/share/d506107a82b44abca08653ddd769ba35)  
+<img width="338" alt="Screenshot" src="https://github.com/sritarung/and101-project1-starter/assets/76496716/d2480fe4-278c-441d-858c-0b5e3d30f6ca">
+[](https://www.loom.com/share/d506107a82b44abca08653ddd769ba35)
+
+https://github.com/sritarung/and101-project1-starter/assets/76496716/60a4bf00-0072-4ecf-a1c5-9032646b3b48
+
 
 
 GIF created with **your chosen GIF tool**
