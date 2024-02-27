@@ -1,3 +1,3 @@
 
 ![](https://imgur.com/a/MlhJ6Ax.gif)
-![alt text](https://imgur.com/a/UaochXj)
+![CHEESE!](https://imgur.com/a/UaochXj)
