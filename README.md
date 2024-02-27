@@ -1,3 +1,3 @@
 
 ![](https://imgur.com/a/MlhJ6Ax.gif)
-![](screenshot.jpg)
+![](https://imgur.com/a/UaochXj.gif)
