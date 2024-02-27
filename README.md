@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
+![](https://gyazo.com/b7a35e3274219bf446aea5a33cd93587)
 <img src='https://imgur.com/pdz7Aeq' title='Video Demo' width='' alt='Video Demo' />
 (https://www.loom.com/share/d506107a82b44abca08653ddd769ba35)  
 
